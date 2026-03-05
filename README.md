@@ -9,5 +9,5 @@ Directory structure:
     ├── California_House_Price_Prediction.ipynb
     ├── california_house_price_prediction.py
     ├── LICENSE
-    ├── requirements.txt
+    └── requirements.txt
 ```
