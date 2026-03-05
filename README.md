@@ -10,5 +10,4 @@ Directory structure:
     ├── california_house_price_prediction.py
     ├── LICENSE
     ├── requirements.txt
-    └── project-screenshots/
 ```
